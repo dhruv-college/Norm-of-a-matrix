@@ -10,12 +10,12 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 	2. Use np.array() to convert the evaluated input into a NumPy array.
 	3. Compute the 1-norm using np.linalg.norm() with ord=1.
 	4. Print the result using print().
-## 2 Norm:
+## 2-Norm:
 	1. Import numpy as np.
 	2. Use np.array() to convert the evaluated input into a NumPy array.
 	3. Compute the 2-norm using np.linalg.norm() with ord2.
 	4. Print the result using print().
-## 3 Norm:
+## 3-Norm:
 	1. Import numpy as np.
 	2. Use np.array() to convert the evaluated input into a NumPy array.
 	3. Compute the Infinity-norm using np.linalg.norm() with "np.inf"
